@@ -10,3 +10,4 @@ for _ in range(3):
    
 for _ in range(3):
     print(names[_] + id1[_] + GPA[_])
+    print ("Good luck")
